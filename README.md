@@ -41,15 +41,6 @@ This project demonstrates algorithmic problem solving, stateful system design, a
 
 ---
 
-## Technologies
-
-- Java
-- Algorithmic pathfinding
-- Custom data structures
-- Object-oriented design
-
----
-
 ## Demo / Screenshots
 
 Images of exploration and path optimisation will be added.
