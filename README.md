@@ -41,9 +41,11 @@ This project demonstrates algorithmic problem solving, stateful system design, a
 
 ---
 
-## Demo / Screenshots
+## Demo
 
-Images of exploration and path optimisation will be added.
+https://github.com/user-attachments/assets/5b4d3377-3288-49f5-956d-ea1f00e40fbd
+
+
 
 
 # Project 2: Backwords (TODO)
