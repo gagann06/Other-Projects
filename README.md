@@ -3,7 +3,7 @@ These are projects for which source code cannot be shared - repository to be use
 
 ---
 
-# Project 1: Maze Learning Robot — Tremaux Algorithm Navigation
+# Project 1: Maze Learning Robot
 
 ---
 
