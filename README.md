@@ -48,5 +48,5 @@ https://github.com/user-attachments/assets/5b4d3377-3288-49f5-956d-ea1f00e40fbd
 
 
 
-# Project 2: Backwords (TODO)
+# Project 2: Scrabble-inspired Game (TODO)
 
